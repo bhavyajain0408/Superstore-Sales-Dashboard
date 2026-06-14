@@ -44,4 +44,4 @@ This project presents an interactive **Superstore Sales Dashboard** developed us
 **Excel Analytics • Business Intelligence • Dashboard Development • Data Visualization • Data Cleaning • Pivot Tables • KPI Reporting • Analytical Thinking • Reporting Automation**
 
 🚀 This project showcases my ability to transform raw business data into actionable insights through effective dashboard design and data-driven storytelling.
-* screeshot :
+* screeshot :https://github.com/bhavyajain0408/Superstore-Sales-Dashboard/commit/b6fa81d493f73d9882cdeed7a2abdf6fac60ecc0
